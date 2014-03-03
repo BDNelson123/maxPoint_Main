@@ -1,0 +1,43 @@
+10
+
+dir
+2
+http://web-svn/trunk/app/releases/104/app/views
+http://web-svn
+
+
+
+2013-08-15T15:22:45.514400Z
+2
+maxpoint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9e95c582-e51e-40c7-ab11-128f683c2d6c
+
+layouts
+dir
+
+components
+dir
+
+search
+dir
+
+posts
+dir
+
+kaminari
+dir
+

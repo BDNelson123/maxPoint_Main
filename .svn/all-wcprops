@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/2/trunk/app/releases/104
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/2/trunk/app/releases/104/.gitignore
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/2/trunk/app/releases/104/Gemfile
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/2/trunk/app/releases/104/config.ru
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/2/trunk/app/releases/104/Gemfile.lock
+END
+tmp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/2/trunk/app/releases/104/tmp
+END
+log
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/2/trunk/app/releases/104/log
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/2/trunk/app/releases/104/Rakefile
+END
+Procfile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/2/trunk/app/releases/104/Procfile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/2/trunk/app/releases/104/README.rdoc
+END

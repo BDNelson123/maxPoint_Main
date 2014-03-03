@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/2/trunk/app/releases/104/db/migrate
+END
+20130514185638_create_cms_comments.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130514185638_create_cms_comments.cms.rb
+END
+20130516225959_blog_updates.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130516225959_blog_updates.cms.rb
+END
+20130517234206_add_meta_data.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130517234206_add_meta_data.cms.rb
+END
+20130516225958_create_cms_categories.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130516225958_create_cms_categories.cms.rb
+END
+20130501041529_create_cms_posts.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130501041529_create_cms_posts.cms.rb
+END
+20130516225960_comments_update.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130516225960_comments_update.cms.rb
+END
+20130508231600_create_cms_links.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130508231600_create_cms_links.cms.rb
+END
+20130501041530_create_cms_configurations.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130501041530_create_cms_configurations.cms.rb
+END
+20130501041527_create_cms_components.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130501041527_create_cms_components.cms.rb
+END
+20130501041525_create_cms_localities.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130501041525_create_cms_localities.cms.rb
+END
+20130501041531_create_cms_tags.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130501041531_create_cms_tags.cms.rb
+END
+20130522200844_add_kind_to_pages.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130522200844_add_kind_to_pages.cms.rb
+END
+20130501041526_create_cms_pages.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130501041526_create_cms_pages.cms.rb
+END
+20130706005944_create_ckeditor_assets.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130706005944_create_ckeditor_assets.cms.rb
+END
+20130501041528_create_cms_users.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130501041528_create_cms_users.cms.rb
+END
+20130604185817_add_cms_published_to_pages.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130604185817_add_cms_published_to_pages.cms.rb
+END
+20130709001741_add_admin_to_cms_users.cms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2/trunk/app/releases/104/db/migrate/20130709001741_add_admin_to_cms_users.cms.rb
+END
